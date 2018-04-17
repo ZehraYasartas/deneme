@@ -1,5 +1,27 @@
-﻿{"employees":[
-    { "firstName":"John", "lastName":"Doe" },
-    { "firstName":"Anna", "lastName":"Smith" },
-    { "firstName":"Peter", "lastName":"Jones" }
+﻿{"doviz":[
+    	{
+	"dovizid":1,
+	"dovizadi":"Döviz Adı 1" ,
+	"dovizdegeri":"Döviz Değeri 1" 	
+	},
+	{
+	"dovizid":2,
+	"dovizadi":"Doe" ,
+	"dovizdegeri":"Doe" 	
+	},
+	{
+	"dovizid":3,
+	"dovizadi":"Doe" ,
+	"dovizdegeri":"Doe" 	
+	},
+	{
+	"dovizid":4,
+	"dovizadi":"Doe" ,
+	"dovizdegeri":"Doe" 	
+	},
+	{
+	"dovizid":5,
+	"dovizadi":"Doe" ,
+	"dovizdegeri":"Doe" 	
+	}
 ]}
